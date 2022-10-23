@@ -1,0 +1,3 @@
+Motores de Plantillas
+Se eligio la plantilla de EJS, ya que es uno de los motores de visualizacion mas populares y facil de comprender de NodeJS. 
+Tambien porque tengo conocimientos en javascript y se me hace mas simple de entender su sintaxis al momento de aplicarlo...
